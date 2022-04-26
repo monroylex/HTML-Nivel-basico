@@ -5,20 +5,14 @@
 	
 }
 
-#container{
-	margin:auto;
-	margin-top:60px;
-	width:400px;
-	height:400px;
-	background-color:red; 
-	border:1px solid wait;
-	
+body{
+	background: #A3E4D7;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.container{
+	background: white;
 	
-
-div#capa 1{
-	width:50px;
-	height:50px;
-	background-color:red; 
-	
+	padding: 3rem 3rem;
+	border-radius: 10%;
+	text-align: justify;
 }
