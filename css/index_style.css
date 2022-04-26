@@ -11,8 +11,18 @@ body{
 }
 .container{
 	background: white;
-	
 	padding: 3rem 3rem;
 	border-radius: 10%;
 	text-align: justify;
+}
+.btb{
+	background-color:blue;
+	color:white;
+	width:120px;
+}
+footer{
+	background: #34495E;
+	padding: 3rem 3rem;
+	text-align: center;
+	color: white;
 }
